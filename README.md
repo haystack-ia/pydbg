@@ -6,7 +6,7 @@ Then, clone this repository, navigate to the repo folder, and install the packag
 
 `pip install -e . --process-dependency-links --allow-all-external`
 
-This will downloa, compile, and install the pydasm package and then install pydbg.
+This will download, compile, and install the pydasm package and then install pydbg.
 
 Major hat-tip to axcheron for putting together the user-friendly pydasm install, and of course to Pedram Amini for writing pydbg.
 
